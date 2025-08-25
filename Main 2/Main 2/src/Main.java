@@ -18,6 +18,7 @@ public class Main {
      * JVM entry point. Schedules construction and display of {@link WaterMeterIDUI}
      * on the EDT to keep the UI responsive and thread-safe.
      *
+     *
      * @param args command-line arguments (not used)
      */
     public static void main(String[] args) {
